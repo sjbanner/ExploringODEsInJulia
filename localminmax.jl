@@ -38,7 +38,7 @@ function localmaxs(vec)
         max_vec = [(1, vec[1])]
         rising = false
     else
-        min_vec = []
+        max_vec = []
         rising = true
     end
 
